@@ -21,7 +21,7 @@ Outside of data science, I am the **Technical Co-Head of IIC TMSL** where my res
 
 ### Know more about me:
 
-- 🛠 I’m currently exploring ML and learning about Different Algorithms .
+- 🛠 I’m currently exploring Data Science and ML .
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning Data Structures and Algorithms.
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/viraldevpb).
 - 💬 Ask me about anything, I would be glad to help (if I could ✨).
