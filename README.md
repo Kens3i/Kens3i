@@ -29,7 +29,7 @@ Outside of data science, I am the **Startup Head of IIC TMSL** where my responsi
 - ⚡ Fun fact: I love Photography, Working out, and Connecting with New People.
 - :car: How to reach me:
 
-| [<img src="http://pngimg.com/uploads/github/small/github_PNG87.png" alt="github logo" width="34">](https://github.com/Kens3i) |  [<img src="http://pngimg.com/uploads/linkedIn/small/linkedIn_PNG39.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/koding-senpai/) |[<img src="http://pngimg.com/uploads/gmail_logo/small/gmail_logo_PNG4.png" alt="gmail logo" width="24">](rishavkoustav@gmail.com)
+| [<img src="http://pngimg.com/uploads/linkedIn/small/linkedIn_PNG39.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/koding-senpai/)
 |---|---|---|
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
