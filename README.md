@@ -30,7 +30,7 @@ Outside of data science, I am the **Startup Head of IIC TMSL** where my responsi
 - :car: How to reach me:
 
 | [<img src="http://pngimg.com/uploads/linkedIn/small/linkedIn_PNG39.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/koding-senpai/)
-|---|---|---|
+|
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 
