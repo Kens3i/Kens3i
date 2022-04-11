@@ -74,10 +74,3 @@ Outside of data science, I am the **Startup Head of IIC TMSL** where my responsi
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kens3i&layout=compact&theme=radical" alt="Koustav's Github Stats"/>
 	</p>
 </details>
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
-
-<h2 align="center">Git-Hub Activity Graph</h2> 
-<p  align="center">
-<img align="Center" src="https://activity-graph.herokuapp.com/graph?username=Kens3i&theme=xcode" alt="Koustav Banerjee" />
-</p>
