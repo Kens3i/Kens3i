@@ -8,7 +8,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 
 
-<h2 align = "Center" > < <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="250" height="250"/> Hello world, I'm  Koustav Banerjee > </h2>
+<h2 align = "Center" > < <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30"> Hello world, I'm  Koustav Banerjee > </h2>
 <h4 align="center"> I Love Building Cool Things And Learning New Technologies</h4>
 
 Every day I push myself to **learn something new**, whether that be about **machine learning**, **software engineering**, or miscellaneous facts about the universe. Getting **insights out of data** is something that I really like. **Data visualization** and **machine learning** are some techniques that I am using to achieve this.
