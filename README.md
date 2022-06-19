@@ -22,12 +22,13 @@ Outside of data science, I am the **Startup Head of IIC TMSL** where my responsi
 
 ### Know more about me:
 
-- 🛠 I’m currently exploring Data Science and ML .
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning Data Structures and Algorithms.
+- 🛠 I’m currently exploring Data Analysis and MS Excel.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning Webscraping.
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/Kens3i/Data-Science-And-ML-Projects).
 - 💬 Ask me about anything, I would be glad to help (if I could ✨).
 - :microphone: Quote: "Keep Moving Forward"
 - ⚡ Fun fact: I love Photography, Working out, and Connecting with New People.
+-  <img src="https://c.tenor.com/NpKcRNoAcjMAAAAi/subscribe-like.gif" width="30"> Click [here](https://www.youtube.com/channel/UCKQYi0jN3INPnN6fq9xezLQ/featured) to Subscribe for cool PC tips and tricks and Secret Websites.
 - :car: How to reach me:
 
 | [<img src="http://pngimg.com/uploads/linkedIn/small/linkedIn_PNG39.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/koding-senpai/)
