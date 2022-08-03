@@ -24,7 +24,7 @@ Outside of data science, I am the **Startup Head of IIC TMSL** where my responsi
 
 - 🛠 I’m currently exploring Data Analysis and MS Excel.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning Webscraping.
-- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/Kens3i/Data-Science-And-ML-Projects).
+- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/Kens3i/All-Projects).
 - 💬 Ask me about anything, I would be glad to help (if I could ✨).
 - :microphone: Quote: "Keep Moving Forward"
 - ⚡ Fun fact: I love Photography, Working out, and Connecting with New People.
