@@ -13,8 +13,6 @@
 
 Every day I push myself to **learn something new**, whether that be about **machine learning**, **software engineering**, or miscellaneous facts about the universe. Getting **insights out of data** is something that I really like. **Data visualization** and **machine learning** are some techniques that I am using to achieve this.
 
-Outside of data science, I am the **Startup Head of IIC TMSL** where my responsibility is to **mentor and manage** start-ups and make the startups both **efficient and profitable** as fast as possible.
-
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 
