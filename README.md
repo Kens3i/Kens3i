@@ -22,8 +22,8 @@ My hobbies are photography, working out, and connecting with new people.
 
 ### Know more about me:
 
-- 🛠 I’m currently exploring Data Analysis and MS Excel.
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning Webscraping.
+- 🛠 I’m currently exploring Data Engineering.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning Azure Cloud Computing.
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/Kens3i/All-Projects).
 - 💬 Ask me about anything, I would be glad to help (if I could ✨).
 - :microphone: Quote: "Keep Moving Forward"
