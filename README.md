@@ -41,7 +41,7 @@ My hobbies are photography, working out, and connecting with new people.
 
 **Languages**: `Python` , `C++`, `C`.
 <br>
-**Data Engineering and Cloud Computing**: Azure Data Factory, Azure Databricks, Azure Synapse Analytics, Azure SQL Database, Azure Data Lake, Azure Blob Storage
+**Data Engineering and Cloud Computing**: Azure Data Factory, Databricks, Synapse Analytics, Azure SQL Database, Data Lake, Blob Storage
 <br>
 **Data Visualisation an Data Processing**: `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`.
 <br>
