@@ -29,7 +29,7 @@ My hobbies are photography, working out, and connecting with new people.
 - :microphone: Quote: "Keep Moving Forward"
 - ⚡ Fun fact: I love Photography, Working out, and Connecting with New People.
 -  <img src="https://c.tenor.com/148clcovc-8AAAAi/hearts-love.gif" width="30"> Click [here](https://www.youtube.com/channel/UCKQYi0jN3INPnN6fq9xezLQ/featured) to Subscribe for cool PC tips and tricks and More.
-- :car: How to reach me:
+- :car: How to reach out to me:
 
 | [<img src="http://pngimg.com/uploads/linkedIn/small/linkedIn_PNG39.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/koding-senpai/)
 |
