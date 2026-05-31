@@ -39,7 +39,7 @@ My hobbies are photography, working out, and connecting with new people.
 
 <h3 align="left">Skills:</h3>
 
-**Languages**: `Python` , `C++`, `C`.
+**Languages**: `Python` , `PySpark`, `SQL`, `C++`, `C`.
 <br>
 **Data Engineering and Cloud Computing**: Azure Data Factory, Databricks, Synapse Analytics, Azure SQL Database, Data Lake, Blob Storage
 <br>
@@ -54,27 +54,3 @@ My hobbies are photography, working out, and connecting with new people.
 **Web Dev**: HTML, CSS, Streamlit.
 <br>
 **Deployment**: Github, Heroku.
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="photoshop" width="40" height="40"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="photoshop" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="photoshop" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="photoshop" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="photoshop" width="100" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/220px-NumPy_logo_2020.svg.png" alt="photoshop" width="100" height="40"/> 
-<img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="photoshop" width="100" height="40"/> 
-<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="photoshop" width="100" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/220px-Plotly-logo-01-square.png" alt="photoshop" width="110" height="40"/> 
-<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="photoshop" width="100" height="40"/> 
-<img src="https://facebook.github.io/prophet/static/logo.svg" alt="photoshop" width="40" height="40"/> 
-<img src="https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png" alt="photoshop" width="50" height="40"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="photoshop" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="photoshop" width="40" height="40"/> 
-<img src="https://mms.businesswire.com/media/20200616005364/en/798639/2/Streamlit_Logo_%281%29.jpg" alt="photoshop" width="70" height="40"/> 
-<img src="https://miro.medium.com/max/700/0*9f5uMrKMjLbzEf7q.png" alt="photoshop" width="80" height="40"/> 
-<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGmNZMDOpmMQg/company-logo_200_200/0/1519905610801?e=2159024400&v=beta&t=D5lu9rTbQ_aW1ubme8GIq_QhKIm8WTiXTtoBlEHPcA8" alt="photoshop" width="40" height="40"/> 
-</p>
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)<details><summary>:zap: GitHub Stats</summary>
-	<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kens3i&show_icons=true&count_private=true&hide=prs,issues&theme=radical" alt="Koustav's Github Stats"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kens3i&layout=compact&theme=radical" alt="Koustav's Github Stats"/>
-	</p>
-</details>
